@@ -1,1 +1,0 @@
-Page showcasing my projects
