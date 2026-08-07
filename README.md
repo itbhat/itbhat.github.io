@@ -6,10 +6,9 @@ This repository contains the source code for my GitHub Pages site, where I showc
 
 ## Technologies
 
-- HTML5
+- HTML
 - CSS3
 - JavaScript
-- GitHub Pages
 
 ## Featured Projects
 
