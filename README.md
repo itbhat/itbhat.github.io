@@ -1,4 +1,4 @@
-# Vineet Bhat Portfolio
+# Portfolio
 
 Welcome to my personal portfolio website.
 
